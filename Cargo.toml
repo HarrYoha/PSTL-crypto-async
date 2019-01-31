@@ -1,5 +1,5 @@
 [package]
-name = "rust-to-c"
+name = "PSTL-crypto-async"
 version = "0.1.0"
 authors = [""]
 build = "build.rs"
