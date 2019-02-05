@@ -6,8 +6,8 @@ pub fn get_rand_float_0_and_1() -> f64 {
     return y;
 }
 
-pub fn get_rand_int_0_and_10() ->  i32{
+pub fn get_rand_int_0_and_10() -> i32 {
     let mut rng = rand::thread_rng();
-    let y=rng.gen_range(0, 10);
+    let y = rng.gen_range(0, 10);
     return y;
 }
